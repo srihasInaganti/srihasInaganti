@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @srihasInaganti
-- 👀 I’m interested in AI and ML, Website Design (HTML, CSS, JavaScript), and Game Development (Godot)
-- 🌱 I’m currently learning Website Design
+- 👀 I’m interested in AI and ML, Website Design (HTML, CSS, JavaScript), and Game Development (Godot, Unity, Unreal)
 - 📫 How to reach me: srihas.inaganti@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like games :)
