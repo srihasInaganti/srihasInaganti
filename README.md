@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srihasInaganti
-- 👀 I’m a Computer Science student passionate about solving people's problems with technology.
+- 👀 I’m a Computer Science student interested in DevOps and Cloud Engineering!
 - 📫 How to reach me: srihas.inaganti@gmail.com
 - 😄 Pronouns: he/him
 <!---
